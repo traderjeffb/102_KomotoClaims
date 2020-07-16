@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\GoldBadge\102_Komoto_Claims\102_Komoto_Claims\102_Komoto_Claims\bin\Debug\102_Komoto_Claims.exe.config
+C:\ElevenFiftyProjects\GoldBadge\102_Komoto_Claims\102_Komoto_Claims\102_Komoto_Claims\bin\Debug\102_Komoto_Claims.exe
+C:\ElevenFiftyProjects\GoldBadge\102_Komoto_Claims\102_Komoto_Claims\102_Komoto_Claims\bin\Debug\102_Komoto_Claims.pdb
+C:\ElevenFiftyProjects\GoldBadge\102_Komoto_Claims\102_Komoto_Claims\102_Komoto_Claims\obj\Debug\102_Komoto_Claims.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\102_Komoto_Claims\102_Komoto_Claims\102_Komoto_Claims\obj\Debug\102_Komoto_Claims.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadge\102_Komoto_Claims\102_Komoto_Claims\102_Komoto_Claims\obj\Debug\102_Komoto_Claims.exe
+C:\ElevenFiftyProjects\GoldBadge\102_Komoto_Claims\102_Komoto_Claims\102_Komoto_Claims\obj\Debug\102_Komoto_Claims.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "102_Komoto_Claims", "102_Komoto_Claims\102_Komoto_Claims.csproj", "{691C12C4-C7BA-4919-976B-E55DB11DCA22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Komoto_Claims_Console", "Komoto_Claims_Console\Komoto_Claims_Console.csproj", "{61EF3716-F106-4C19-BB67-880899F87996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{691C12C4-C7BA-4919-976B-E55DB11DCA22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691C12C4-C7BA-4919-976B-E55DB11DCA22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691C12C4-C7BA-4919-976B-E55DB11DCA22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691C12C4-C7BA-4919-976B-E55DB11DCA22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61EF3716-F106-4C19-BB67-880899F87996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61EF3716-F106-4C19-BB67-880899F87996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61EF3716-F106-4C19-BB67-880899F87996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61EF3716-F106-4C19-BB67-880899F87996}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EC6223E-A03B-4343-AE47-77013DED5FF6}
+	EndGlobalSection
+EndGlobal

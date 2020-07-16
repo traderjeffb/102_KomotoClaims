@@ -1,0 +1,11 @@
+C:\ElevenFiftyProjects\GoldBadge\102_Komoto_Claims\102_Komoto_Claims\Komoto_Claims_Console\bin\Debug\Komoto_Claims_Console.exe.config
+C:\ElevenFiftyProjects\GoldBadge\102_Komoto_Claims\102_Komoto_Claims\Komoto_Claims_Console\bin\Debug\Komoto_Claims_Console.exe
+C:\ElevenFiftyProjects\GoldBadge\102_Komoto_Claims\102_Komoto_Claims\Komoto_Claims_Console\bin\Debug\Komoto_Claims_Console.pdb
+C:\ElevenFiftyProjects\GoldBadge\102_Komoto_Claims\102_Komoto_Claims\Komoto_Claims_Console\bin\Debug\102_Komoto_Claims.exe
+C:\ElevenFiftyProjects\GoldBadge\102_Komoto_Claims\102_Komoto_Claims\Komoto_Claims_Console\bin\Debug\102_Komoto_Claims.pdb
+C:\ElevenFiftyProjects\GoldBadge\102_Komoto_Claims\102_Komoto_Claims\Komoto_Claims_Console\bin\Debug\102_Komoto_Claims.exe.config
+C:\ElevenFiftyProjects\GoldBadge\102_Komoto_Claims\102_Komoto_Claims\Komoto_Claims_Console\obj\Debug\Komoto_Claims_Console.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\102_Komoto_Claims\102_Komoto_Claims\Komoto_Claims_Console\obj\Debug\Komoto_Claims_Console.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadge\102_Komoto_Claims\102_Komoto_Claims\Komoto_Claims_Console\obj\Debug\Komoto_Claims_Console.csproj.CopyComplete
+C:\ElevenFiftyProjects\GoldBadge\102_Komoto_Claims\102_Komoto_Claims\Komoto_Claims_Console\obj\Debug\Komoto_Claims_Console.exe
+C:\ElevenFiftyProjects\GoldBadge\102_Komoto_Claims\102_Komoto_Claims\Komoto_Claims_Console\obj\Debug\Komoto_Claims_Console.pdb
